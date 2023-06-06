@@ -30,6 +30,8 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
+[deployment]([https://facebook.github.io/create-react-app/docs/deployment](https://github.com/JenniferSantoss/calculator-project/blob/main/Calculadora-funcionando.mp4))
+
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
